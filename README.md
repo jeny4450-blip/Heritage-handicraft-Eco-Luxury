@@ -592,4 +592,6 @@
             opacity: 0;
             transform: translateY(10px);
             transition: var(--transition-smooth);
-        }
+        }## 🌐 Live Demo
+Check out the deployed site here: [Heritage Handicraft Eco-Luxury](https://jeny4450-blip.github.io/Heritage-handicraft-Eco-Luxury/)
+
